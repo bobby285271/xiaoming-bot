@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5fcbf9e7-9baa-4036-9fe7-2fb9e345ef1a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZnVPWrEBcz2mn7RGe2hBjLI6Eu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.24846625" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\untitled\venv\awersome-bot\awesome" />
+      <recent name="C:\Users\Administrator\Desktop\untitled\venv\awersome-bot" />
+      <recent name="C:\Users\Administrator\Desktop\untitled\venv\awersome-bot\src" />
+      <recent name="C:\Users\Administrator\Desktop\untitled\venv\awersome-bot\awesome\plugins" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.bot">
+    <configuration name="bot" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Administrator\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/awersome-bot" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/awersome-bot/bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="contest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/awersome-bot/awesome/plugins" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/awersome-bot/awesome/plugins/contest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Administrator\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.bot" />
+      <item itemvalue="Python.contest" />
+      <item itemvalue="Python.demo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.demo" />
+        <item itemvalue="Python.contest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fcbf9e7-9baa-4036-9fe7-2fb9e345ef1a" name="Default Changelist" comment="" />
+      <created>1585474821369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585474821369</updated>
+      <workItem from="1586331932016" duration="26516000" />
+      <workItem from="1586923182390" duration="6482000" />
+      <workItem from="1586937089874" duration="20840000" />
+      <workItem from="1587723874672" duration="47090000" />
+      <workItem from="1589785941767" duration="241000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586017083569">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1586017083569" />
+    <state x="143" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585564923939" />
+    <state x="692" y="328" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585555229267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="692" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585555229267" />
+    <state x="675" y="155" key="#demo" timestamp="1588348457327">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="675" y="155" key="#demo/0.0.1920.1040@0.0.1920.1040" timestamp="1588348457327" />
+    <state x="421" y="98" key="FileChooserDialogImpl" timestamp="1585501109501">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="98" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585501109501" />
+    <state width="1877" height="523" key="GridCell.Tab.0.bottom" timestamp="1589772297498">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="523" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589772297498" />
+    <state width="1877" height="842" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588762855624" />
+    <state width="1877" height="523" key="GridCell.Tab.0.center" timestamp="1589772297498">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="523" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589772297498" />
+    <state width="1877" height="842" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588762855624" />
+    <state width="1877" height="523" key="GridCell.Tab.0.left" timestamp="1589772297498">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="523" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589772297498" />
+    <state width="1877" height="842" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588762855624" />
+    <state width="1877" height="523" key="GridCell.Tab.0.right" timestamp="1589772297498">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="523" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589772297498" />
+    <state width="1877" height="842" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588762855624" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1585635891579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585635891579" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1585635891579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585635891579" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1585635891579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585635891579" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1585635891579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585635891579" />
+    <state x="197" y="0" width="994" height="784" key="SettingsEditor" timestamp="1589786192423">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="197" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1589786192423" />
+    <state x="257" y="256" width="994" height="784" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588345222109" />
+    <state x="336" y="167" key="com.intellij.ide.util.TipDialog" timestamp="1589785995986">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="167" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1589785995986" />
+    <state x="504" y="255" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586937104927" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588694918275">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="415" y="147" width="672" height="444" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1587393021732" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588694918275" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled$bot.coverage" NAME="bot Coverage Results" MODIFIED="1589772268029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/awersome-bot" />
+    <SUITE FILE_PATH="coverage/untitled$demo.coverage" NAME="demo Coverage Results" MODIFIED="1588348690968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+  </component>
+</project>
